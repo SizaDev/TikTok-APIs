@@ -1,12 +1,11 @@
-# For Sale: TikTok API Source Code (Mobile APIs - Legacy Version) 
-  
-## Introduction   
+# For Sale: TikTok API Source Code (Mobile APIs - Legacy Version)
+## Introduction
 
 Ready to take your TikTok development to the next level? I'm offering a **complete source code** for **TikTok APIs** (legacy version) built primarily with the **requests** library. This solution is optimized for mobile APIs, making it the perfect fit for mobile application developers looking to integrate TikTok features effortlessly.
  
 ## Features of the Source Code
  
-### 1. Mobile API Functionality 
+### 1. Mobile API Functionality
 - **User Profile Access**: Easily retrieve user profiles and their videos through mobile API endpoints. 
 - **Video Interaction**: Implement functionalities to like, share, and comment on videos using clean API calls.
 - **Trending Content**: Dynamically fetch and display trending videos and hashtags relevant to your application.
