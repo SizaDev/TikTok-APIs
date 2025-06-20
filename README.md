@@ -1,6 +1,5 @@
 # For Sale: TikTok API Source Code (Android/iOS/Web APIs)
 ## Introduction
-
 Ready to take your TikTok development to the next level? I'm offering a **complete source code** for **TikTok APIs** (legacy version) built primarily with the **requests** library. This solution is optimized for mobile APIs, making it the perfect fit for mobile application developers looking to integrate TikTok features effortlessly.
  
 ## Features of the Source Code
