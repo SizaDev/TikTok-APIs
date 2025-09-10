@@ -7,7 +7,7 @@ Ready to take your TikTok development to the next level? I'm offering a **comple
 ### 1. Mobile API Functionality
 - **User Profile Access**: Easily retrieve user profiles and their videos through mobile API endpoints. 
 - **Video Interaction**: Implement functionalities to like, share, and comment on videos using clean API calls.
-- **Trending Content**: Dynamically fetch and display trending videos and hashtags relevant to your application.
+- **Trending Content**: Dynamically fetch and display trending videos and hashtags relevant to your application. 
 
 ### 2. Device Registration
 - **Mobile Device Registration**: Supports registration methods necessary for mobile API interactions to ensure proper access and functionality.
